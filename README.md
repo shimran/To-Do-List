@@ -1,6 +1,6 @@
 <h1>README TO DO APP (RoR)</h1>
 
-<p> Purpose of this app is the
+<p> Purpose of this app is to allow a user to keep track of things to do, as well as dynamically create and add lists. Each list has tasks associated with it, which in turn can also be dynamically created and destroyed. </p> 
 
 
 <h3>SETUP INSTRUCTIONS: </h3>
